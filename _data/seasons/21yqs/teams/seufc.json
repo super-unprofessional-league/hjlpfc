@@ -6,27 +6,6 @@
         "starting": [
         ],
         "subs": [
-            {
-                "number": 10,
-                "name": "吉相冰",
-                "img": "teams/seufc/jxb.jpg",
-                "position": "前锋",
-                "locator": "LW"
-            }
-            ,{
-                "number": 16,
-                "name": "熊宽晨",
-                "img": "teams/seufc/xkc.jpg",
-                "position": "后卫",
-                "locator": "LB"
-            }
-            ,{
-                "number": 55,
-                "name": "狄克",
-                "img": "teams/seufc/ss.jpg",
-                "position": "后卫",
-                "locator": "LCB"
-            }
         ]
     }
 }
